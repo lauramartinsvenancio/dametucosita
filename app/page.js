@@ -188,7 +188,7 @@ export default function Home() {
 
       
       <footer style={{ borderTop: "1px solid rgba(255,255,255,0.04)", padding: "24px 0", textAlign: "center", color: "#555", fontSize: 12 }}>
-        Feito por EstamosDeOlhoNaLilian da Silva.
+        Feito por EstamosDiolho NALilian DaSilva.
       </footer>
     </main>
   );
